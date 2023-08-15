@@ -46,6 +46,29 @@
           }
         );
       }
+
+      function loadFont(name, url, weight) {
+        return new Promise((resolve, reject) => {
+          const myFont = new FontFace(name, `url(${url})`);
+          if (weight) myFont.weight = weight;
+          myFont
+            .load()
+            .then(() => {
+              document.fonts.add(myFont);
+              const el = document.createElement("DIV");
+              el.style.fontFamily = name;
+              resolve(true);
+            })
+            .catch((err) => {
+              console.log(err);
+              reject();
+            });
+        });
+      }
+
+      if ("%REACT_APP_SUPPORTED_LANGUAGES%".includes("fa")) {
+        loadFont("iransans", "%REACT_APP_PUBLIC_URL%fonts/irs/irs.ttf");
+      }
     </script>
   </head>
   <body onLoad="onLoad()" class="mac-theme">
