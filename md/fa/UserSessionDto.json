@@ -1,0 +1,51 @@
+{
+  "data": {
+    "passport": null,
+    "token": "52fdfc072182654f163f5f0f9a621d729566c74d10037c4d7bbb0407d1e2c649",
+    "user": {
+      "firstName": "علی",
+      "lastName": "ترابی",
+      "uniqueId": "03cab7eb",
+      "updated": 1691960984657761000,
+      "created": 1691960984657761000
+    },
+    "userRoleWorkspaces": [
+      {
+        "workspace": {
+          "name": "علی",
+          "uniqueId": "2e8193f8",
+          "updated": 1691960986004320000,
+          "created": 1691960986004320000,
+          "parentId": "root"
+        },
+        "workspaceId": "2e8193f8",
+        "role": {
+          "uniqueId": "fe9cd090",
+          "name": "Administrator",
+          "capabilities": [
+            {
+              "uniqueId": "root/*",
+              "updated": 1691960980835702000,
+              "created": 1691960980835702000
+            }
+          ],
+          "workspaceId": "2e8193f8",
+          "updated": 1691960986004575000,
+          "created": 1691960986004575000
+        },
+        "roleId": "fe9cd090",
+        "user": {
+          "firstName": "علی",
+          "lastName": "ترابی",
+          "uniqueId": "03cab7eb",
+          "updated": 1691960984657761000,
+          "created": 1691960984657761000
+        },
+        "userId": "03cab7eb",
+        "uniqueId": "36cdf07d",
+        "updated": 1691960986004885000,
+        "created": 1691960986004885000
+      }
+    ]
+  }
+}

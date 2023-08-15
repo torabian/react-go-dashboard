@@ -1,0 +1,51 @@
+{
+  "data": {
+    "passport": null,
+    "token": "05daa7c961ac4db85128fd82361c288096f5372130c8575ea7b3463223193bab",
+    "user": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "uniqueId": "695d07c3",
+      "updated": 1691960981966551000,
+      "created": 1691960981966551000
+    },
+    "userRoleWorkspaces": [
+      {
+        "workspace": {
+          "name": "John",
+          "uniqueId": "bce32453",
+          "updated": 1691960983300871000,
+          "created": 1691960983300871000,
+          "parentId": "root"
+        },
+        "workspaceId": "bce32453",
+        "role": {
+          "uniqueId": "67d77ba2",
+          "name": "Administrator",
+          "capabilities": [
+            {
+              "uniqueId": "root/*",
+              "updated": 1691960980835702000,
+              "created": 1691960980835702000
+            }
+          ],
+          "workspaceId": "bce32453",
+          "updated": 1691960983301121000,
+          "created": 1691960983301121000
+        },
+        "roleId": "67d77ba2",
+        "user": {
+          "firstName": "John",
+          "lastName": "Doe",
+          "uniqueId": "695d07c3",
+          "updated": 1691960981966551000,
+          "created": 1691960981966551000
+        },
+        "userId": "695d07c3",
+        "uniqueId": "c27a2f06",
+        "updated": 1691960983301443000,
+        "created": 1691960983301443000
+      }
+    ]
+  }
+}

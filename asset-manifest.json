@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-go-dashboard/static/js/main.ec6e3230.js",
+    "index.html": "/react-go-dashboard/index.html",
+    "main.ec6e3230.js.map": "/react-go-dashboard/static/js/main.ec6e3230.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec6e3230.js"
+  ]
+}
