@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/react-go-dashboard/static/js/main.ec6e3230.js",
+    "main.css": "/react-go-dashboard/static/css/main.b81e2b1f.css",
+    "main.js": "/react-go-dashboard/static/js/main.d86d58f6.js",
+    "static/media/SFNSDisplay-Semibold.otf": "/react-go-dashboard/static/media/SFNSDisplay-Semibold.b1cbfd8df20ade660469.otf",
+    "static/media/SFNSDisplay-Medium.otf": "/react-go-dashboard/static/media/SFNSDisplay-Medium.0d6a447cb6bea27ee045.otf",
+    "static/media/IRANSansWeb.eot": "/react-go-dashboard/static/media/IRANSansWeb.5c7d40bb2f4cca4c4cf7.eot",
     "index.html": "/react-go-dashboard/index.html",
-    "main.ec6e3230.js.map": "/react-go-dashboard/static/js/main.ec6e3230.js.map"
+    "main.b81e2b1f.css.map": "/react-go-dashboard/static/css/main.b81e2b1f.css.map",
+    "main.d86d58f6.js.map": "/react-go-dashboard/static/js/main.d86d58f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.ec6e3230.js"
+    "static/css/main.b81e2b1f.css",
+    "static/js/main.d86d58f6.js"
   ]
 }
