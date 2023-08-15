@@ -7,6 +7,19 @@ Web, Desktop, Embedded and Mobile apps done right, once, and never do rewrite.
 There is a github hosted version of the front-end, which runs in the browser only. The backend of this project,
 generates mock data for front-end, so it could be used for such purposes. Features _do not work_, it's only presentation layer.
 
+## Use cases
+
+This stack, (Backend and Front-end, including all the build system) is created for specific reason, which includes:
+
+- Creating a new startup, keeping in mind when growth is happening, there won't be a need to rewrite due to lack
+  of quality software
+- Creating a desktop app, for Windows, Linux, MacOSX
+- Creating hybrid mobile application for initial phase of the project
+- Build microservices, CLI or HTTP programs which can serve varierty of different purposes
+- Web applications, any kind.
+- Embedded a lightweight front-end in microcontrollers, such as Arduino, or ESP
+- Write project which works in cloud and also offline.
+
 ## Motivation
 
 After building a decade of the repeatitive UI's for front-end project, i've put all the experience into building
@@ -29,6 +42,7 @@ a boilerplate which is not limited to start of a project, rather would scale up 
 - Backend section can be compiled into Android and IOS binaries, and there is a cordova plugin which runs the front-end as mobile app. In fact, due to low wieght of the front-end, it works quite performant in comparison with UI frameworks.
 
 ![Alt text](assets/react-go-polish-b1-desktop-2.png)
+
 ![Alt text](assets/react-go-polish-b1-persian.png)
 ![Alt text](assets/react-go-sample3.png)
 
