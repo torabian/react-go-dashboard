@@ -1,0 +1,34 @@
+{
+  "name": "react-go-dashboard",
+  "version": "1.0.0",
+  "description": "React and Golang full app dashboard, for desktop, web, mobile and microcontrollers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torabian/react-go-dashboard.git"
+  },
+  "keywords": [
+    "React",
+    "Dashboard",
+    "IOT",
+    "Dashboard",
+    "Accounting",
+    "Dashboard",
+    "Desktop",
+    "App",
+    "Cordova",
+    "App"
+  ],
+  "author": "Ali Torabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torabian/react-go-dashboard/issues"
+  },
+  "homepage": "https://github.com/torabian/react-go-dashboard#readme",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
