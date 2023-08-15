@@ -41,6 +41,17 @@ a boilerplate which is not limited to start of a project, rather would scale up 
   enough to be flashed into microcontrollers with 2MB storage.
 - Backend section can be compiled into Android and IOS binaries, and there is a cordova plugin which runs the front-end as mobile app. In fact, due to low wieght of the front-end, it works quite performant in comparison with UI frameworks.
 
+## Architecture: Front-end
+
+The front-end in these projects is organized in a way which, source code can contain multiple projects inside it.
+The general structure is simple, not nested, and consists of `components` and `modules`. Components represent non-logical particals, such as `FormText`, `FormRichText`, `FormUploader`, etc.
+
+![Alt text](assets/react-go-front-end-architecture.png)
+
+All modules, follow the same structure, There is `*ArchiveScreen`, `*SingleScreen`, `*Form` and `*EntityManager`.
+In order to be consistent, every screen provides pagination, filter per column and sorting by default.
+Advanced server side validation is provided, even for nested entities.
+
 ![Alt text](assets/react-go-polish-b1-desktop-2.png)
 
 ![Alt text](assets/react-go-polish-b1-persian.png)
