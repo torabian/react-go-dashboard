@@ -1,0 +1,39 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1692126623392445000,
+        "createdFormatted": "2023/08/15 21:10:23",
+        "name": "string",
+        "uniqueId": "string",
+        "updated": 1692126623392445000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1692126623391094000,
+        "createdFormatted": "2023/08/15 21:10:23",
+        "name": "Int64",
+        "uniqueId": "int64",
+        "updated": 1692126623391094000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1692126623389696000,
+        "createdFormatted": "2023/08/15 21:10:23",
+        "name": "Float64",
+        "uniqueId": "float64",
+        "updated": 1692126623389696000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 99999,
+    "startIndex": 0,
+    "totalItems": 3
+  }
+}
