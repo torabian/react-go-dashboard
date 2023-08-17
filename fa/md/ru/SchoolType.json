@@ -1,0 +1,41 @@
+{
+  "data": {
+    "items": [
+      {
+        "created": 1692232260449948000,
+        "createdFormatted": "2023/08/17 02:31:00",
+        "name": "National",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "national",
+            "name": "کشوری"
+          }
+        ],
+        "uniqueId": "national",
+        "updated": 1692232260449948000,
+        "userId": "",
+        "workspaceId": ""
+      },
+      {
+        "created": 1692232260447852000,
+        "createdFormatted": "2023/08/17 02:31:00",
+        "name": "Provincial",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "provincial",
+            "name": "استانی"
+          }
+        ],
+        "uniqueId": "provincial",
+        "updated": 1692232260447852000,
+        "userId": "",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 99999,
+    "startIndex": 0,
+    "totalItems": 2
+  }
+}

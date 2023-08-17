@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-go-dashboard/fa/static/css/main.f327c571.css",
-    "main.js": "/react-go-dashboard/fa/static/js/main.f7efb3d7.js",
+    "main.js": "/react-go-dashboard/fa/static/js/main.5eb245ee.js",
     "static/media/SFNSDisplay-Semibold.otf": "/react-go-dashboard/fa/static/media/SFNSDisplay-Semibold.b1cbfd8df20ade660469.otf",
     "static/media/SFNSDisplay-Medium.otf": "/react-go-dashboard/fa/static/media/SFNSDisplay-Medium.0d6a447cb6bea27ee045.otf",
     "static/media/KaTeX_AMS-Regular.ttf": "/react-go-dashboard/fa/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -67,10 +67,10 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/react-go-dashboard/fa/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/react-go-dashboard/fa/index.html",
     "main.f327c571.css.map": "/react-go-dashboard/fa/static/css/main.f327c571.css.map",
-    "main.f7efb3d7.js.map": "/react-go-dashboard/fa/static/js/main.f7efb3d7.js.map"
+    "main.5eb245ee.js.map": "/react-go-dashboard/fa/static/js/main.5eb245ee.js.map"
   },
   "entrypoints": [
     "static/css/main.f327c571.css",
-    "static/js/main.f7efb3d7.js"
+    "static/js/main.5eb245ee.js"
   ]
 }
