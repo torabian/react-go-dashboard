@@ -2,43 +2,43 @@
   "data": {
     "items": [
       {
-        "created": 1692232265719572000,
-        "createdFormatted": "۲۶ مرداد ۱۴۰۲",
-        "linkerId": "f44c4600",
+        "created": 1692372716430547000,
+        "createdFormatted": "۲۷ مرداد ۱۴۰۲",
+        "linkerId": "7b951c64",
         "name": "داشبورد ۱",
         "translations": [
           {
             "languageId": "fa",
-            "linkerId": "f44c4600",
+            "linkerId": "7b951c64",
             "name": "داشبورد ۱"
           }
         ],
-        "uniqueId": "f44c4600",
-        "updated": 1692232265719572000,
+        "uniqueId": "7b951c64",
+        "updated": 1692372716430547000,
         "userId": "",
         "widgets": [
           {
-            "created": 1692232265719981000,
+            "created": 1692372716431005000,
             "data": "{\"dataNodeId\": \"GPIO_1\", \"name\": \"GPIO_1\"}",
             "h": 2,
-            "linkerId": "2f899df0",
+            "linkerId": "9f1dd474",
             "title": "پایه IO ۱",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "2f899df0",
+                "linkerId": "9f1dd474",
                 "title": "پایه IO ۱"
               }
             ],
-            "uniqueId": "2f899df0",
-            "updated": 1692232265719981000,
+            "uniqueId": "9f1dd474",
+            "updated": 1692372716431005000,
             "w": 2,
             "widget": {
-              "created": 1692232265713692000,
+              "created": 1692372716423935000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692232265713692000,
+              "updated": 1692372716423935000,
               "userId": "",
               "workspaceId": ""
             },
@@ -46,27 +46,27 @@
             "workspaceId": "root"
           },
           {
-            "created": 1692232265719981000,
+            "created": 1692372716431005000,
             "data": "{\"dataNodeId\": \"GPIO_2\", \"name\": \"GPIO_2\"}",
             "h": 2,
-            "linkerId": "d9f2b48b",
+            "linkerId": "c5473bd2",
             "title": "پایه IO ۲",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "d9f2b48b",
+                "linkerId": "c5473bd2",
                 "title": "پایه IO ۲"
               }
             ],
-            "uniqueId": "d9f2b48b",
-            "updated": 1692232265719981000,
+            "uniqueId": "c5473bd2",
+            "updated": 1692372716431005000,
             "w": 2,
             "widget": {
-              "created": 1692232265713692000,
+              "created": 1692372716423935000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692232265713692000,
+              "updated": 1692372716423935000,
               "userId": "",
               "workspaceId": ""
             },
@@ -74,27 +74,27 @@
             "x": 2
           },
           {
-            "created": 1692232265719981000,
+            "created": 1692372716431005000,
             "data": "{\"dataNodeId\": \"GPIO_3\", \"name\": \"GPIO_3\"}",
             "h": 2,
-            "linkerId": "7977ec4d",
+            "linkerId": "76b93479",
             "title": "پایه IO ۳",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "7977ec4d",
+                "linkerId": "76b93479",
                 "title": "پایه IO ۳"
               }
             ],
-            "uniqueId": "7977ec4d",
-            "updated": 1692232265719981000,
+            "uniqueId": "76b93479",
+            "updated": 1692372716431005000,
             "w": 2,
             "widget": {
-              "created": 1692232265713692000,
+              "created": 1692372716423935000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692232265713692000,
+              "updated": 1692372716423935000,
               "userId": "",
               "workspaceId": ""
             },
@@ -103,27 +103,27 @@
             "x": 4
           },
           {
-            "created": 1692232265719981000,
+            "created": 1692372716431005000,
             "data": "{\"dataNodeId\": \"GPIO_8\", \"name\": \"Fan Speed (IO8)\"}",
             "h": 2,
-            "linkerId": "aa29d45c",
+            "linkerId": "1d674dd1",
             "title": "دمای داخلی CPU",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "aa29d45c",
+                "linkerId": "1d674dd1",
                 "title": "دمای داخلی CPU"
               }
             ],
-            "uniqueId": "aa29d45c",
-            "updated": 1692232265719981000,
+            "uniqueId": "1d674dd1",
+            "updated": 1692372716431005000,
             "w": 2,
             "widget": {
-              "created": 1692232265717224000,
+              "created": 1692372716427248000,
               "name": "Numeric Value Realtime Chart",
               "providerKey": "numeric_value_realtime_chart",
               "uniqueId": "numeric_value_realtime_chart",
-              "updated": 1692232265717224000,
+              "updated": 1692372716427248000,
               "userId": "",
               "workspaceId": ""
             },
