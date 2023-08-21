@@ -2,42 +2,43 @@
   "data": {
     "items": [
       {
-        "created": 1692496687146370000,
-        "createdFormatted": "2023/08/20 03:58:07",
+        "created": 1692578956535514000,
+        "createdFormatted": "2023/08/21 02:49:16",
+        "layouts": "{\"lg\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":6,\"h\":3,\"x\":6,\"y\":0,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"xs\":[{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":1,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":3,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":5,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"md\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":3,\"x\":6,\"y\":0,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"sm\":[{\"w\":2,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":3,\"x\":2,\"y\":0,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":6,\"x\":4,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":4,\"h\":3,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}],\"xxs\":[{\"w\":1,\"h\":3,\"x\":0,\"y\":0,\"i\":\"gpio1\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":0,\"y\":5,\"i\":\"gpio2\",\"moved\":false,\"static\":false},{\"w\":1,\"h\":3,\"x\":1,\"y\":0,\"i\":\"gpio3\",\"moved\":false,\"static\":false},{\"w\":2,\"h\":2,\"x\":0,\"y\":3,\"i\":\"temperature_widget\",\"moved\":false,\"static\":false}]}",
         "name": "Dashboard 1",
         "translations": [
           {
             "languageId": "fa",
-            "linkerId": "4fa2a42a",
+            "linkerId": "dashboard_iot",
             "name": "داشبورد ۱"
           }
         ],
-        "uniqueId": "4fa2a42a",
-        "updated": 1692496687146370000,
+        "uniqueId": "dashboard_iot",
+        "updated": 1692578956535514000,
         "userId": "",
         "widgets": [
           {
-            "created": 1692496687147019000,
+            "created": 1692578956535919000,
             "data": "{\"dataNodeId\": \"GPIO_1\", \"name\": \"GPIO_1\"}",
             "h": 2,
-            "linkerId": "4fa2a42a",
+            "linkerId": "dashboard_iot",
             "title": "GPIO1",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "fde8b85e",
+                "linkerId": "gpio1",
                 "title": "پایه IO ۱"
               }
             ],
-            "uniqueId": "fde8b85e",
-            "updated": 1692496687147019000,
+            "uniqueId": "gpio1",
+            "updated": 1692578956535919000,
             "w": 2,
             "widget": {
-              "created": 1692496687138702000,
+              "created": 1692578956529652000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692496687138702000,
+              "updated": 1692578956529652000,
               "userId": "",
               "workspaceId": ""
             },
@@ -45,27 +46,27 @@
             "workspaceId": "root"
           },
           {
-            "created": 1692496687147019000,
+            "created": 1692578956535919000,
             "data": "{\"dataNodeId\": \"GPIO_2\", \"name\": \"GPIO_2\"}",
             "h": 2,
-            "linkerId": "4fa2a42a",
+            "linkerId": "dashboard_iot",
             "title": "GPIO2",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "219df0b9",
+                "linkerId": "gpio2",
                 "title": "پایه IO ۲"
               }
             ],
-            "uniqueId": "219df0b9",
-            "updated": 1692496687147019000,
+            "uniqueId": "gpio2",
+            "updated": 1692578956535919000,
             "w": 2,
             "widget": {
-              "created": 1692496687138702000,
+              "created": 1692578956529652000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692496687138702000,
+              "updated": 1692578956529652000,
               "userId": "",
               "workspaceId": ""
             },
@@ -73,27 +74,27 @@
             "x": 2
           },
           {
-            "created": 1692496687147019000,
+            "created": 1692578956535919000,
             "data": "{\"dataNodeId\": \"GPIO_3\", \"name\": \"GPIO_3\"}",
             "h": 2,
-            "linkerId": "4fa2a42a",
+            "linkerId": "dashboard_iot",
             "title": "GPIO3",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "4f8f58b6",
+                "linkerId": "gpio3",
                 "title": "پایه IO ۳"
               }
             ],
-            "uniqueId": "4f8f58b6",
-            "updated": 1692496687147019000,
+            "uniqueId": "gpio3",
+            "updated": 1692578956535919000,
             "w": 2,
             "widget": {
-              "created": 1692496687138702000,
+              "created": 1692578956529652000,
               "name": "Single Digital Writer",
               "providerKey": "single_digital_gpio",
               "uniqueId": "single_digital_gpio",
-              "updated": 1692496687138702000,
+              "updated": 1692578956529652000,
               "userId": "",
               "workspaceId": ""
             },
@@ -102,27 +103,27 @@
             "x": 4
           },
           {
-            "created": 1692496687147019000,
+            "created": 1692578956535919000,
             "data": "{\"dataNodeId\": \"GPIO_8\", \"name\": \"Fan Speed (IO8)\"}",
             "h": 2,
-            "linkerId": "4fa2a42a",
+            "linkerId": "dashboard_iot",
             "title": "Core Temperature",
             "translations": [
               {
                 "languageId": "fa",
-                "linkerId": "f848b03a",
+                "linkerId": "temperature_widget",
                 "title": "دمای داخلی CPU"
               }
             ],
-            "uniqueId": "f848b03a",
-            "updated": 1692496687147019000,
+            "uniqueId": "temperature_widget",
+            "updated": 1692578956535919000,
             "w": 2,
             "widget": {
-              "created": 1692496687142662000,
+              "created": 1692578956533188000,
               "name": "Numeric Value Realtime Chart",
               "providerKey": "numeric_value_realtime_chart",
               "uniqueId": "numeric_value_realtime_chart",
-              "updated": 1692496687142662000,
+              "updated": 1692578956533188000,
               "userId": "",
               "workspaceId": ""
             },

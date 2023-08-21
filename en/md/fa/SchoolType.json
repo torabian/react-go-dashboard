@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692496681789235000,
-        "createdFormatted": "۲۹ مرداد ۱۴۰۲",
+        "created": 1692578951307403000,
+        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
         "linkerId": "special",
         "name": "نمونه",
         "translations": [
@@ -14,13 +14,14 @@
           }
         ],
         "uniqueId": "special",
-        "updated": 1692496681789235000,
+        "updated": 1692578951307403000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692496681787360000,
-        "createdFormatted": "۲۹ مرداد ۱۴۰۲",
+        "created": 1692578951305773000,
+        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
         "linkerId": "govermental",
         "name": "دولتی",
         "translations": [
@@ -31,13 +32,14 @@
           }
         ],
         "uniqueId": "govermental",
-        "updated": 1692496681787360000,
+        "updated": 1692578951305773000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692496681785068000,
-        "createdFormatted": "۲۹ مرداد ۱۴۰۲",
+        "created": 1692578951304187000,
+        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
         "linkerId": "sampad",
         "name": "سمپاد",
         "translations": [
@@ -48,8 +50,9 @@
           }
         ],
         "uniqueId": "sampad",
-        "updated": 1692496681785068000,
+        "updated": 1692578951304187000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       }
     ],

@@ -2,55 +2,55 @@
   "data": {
     "items": [
       {
-        "created": 1692496681767599000,
-        "createdFormatted": "۲۹ مرداد ۱۴۰۲",
+        "created": 1692578951287350000,
+        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
         "fullName": " ",
         "locations": [
           {
-            "created": 1692496681766453000,
+            "created": 1692578951286160000,
             "lat": 35.72085361328543,
             "lng": 51.4237730660889,
             "physicalAddress": "اقلیمی",
-            "uniqueId": "05685953",
-            "updated": 1692496681766453000,
+            "uniqueId": "85e2e0ca",
+            "updated": 1692578951286160000,
             "userId": "",
             "workspaceId": ""
           },
           {
-            "created": 1692496681765154000,
+            "created": 1692578951284752000,
             "lat": 35.69030342379057,
             "lng": 51.38994229594488,
             "physicalAddress": "تهران کاخ مرمر",
-            "uniqueId": "f8acadac",
-            "updated": 1692496681765154000,
+            "uniqueId": "93efb3f9",
+            "updated": 1692578951284752000,
             "userId": "",
             "workspaceId": ""
           }
         ],
         "personalData": {
-          "created": 1692496681763531000,
+          "created": 1692578951283313000,
           "firstName": "Ali",
           "lastName": "Torabi",
           "nationalId": "۴۲۷۰۰۰۰۰۰",
           "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
-          "uniqueId": "a04f79ab",
-          "updated": 1692496681763531000,
+          "uniqueId": "177dd2bc",
+          "updated": 1692578951283313000,
           "userId": "",
           "workspaceId": ""
         },
-        "personalDataId": "a04f79ab",
+        "personalDataId": "177dd2bc",
         "type": {
-          "created": 1692496681759071000,
+          "created": 1692578951279041000,
           "title": "Personal",
           "uniqueId": "personal",
-          "updated": 1692496681759071000,
+          "updated": 1692578951279041000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "typeId": "personal",
         "uniqueId": "torabi",
-        "updated": 1692496681767599000,
+        "updated": 1692578951287350000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

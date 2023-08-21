@@ -2,9 +2,9 @@
   "data": {
     "items": [
       {
-        "created": 1692496681789235000,
-        "createdFormatted": "2023/08/20 03:58:01",
-        "name": "نمونه",
+        "created": 1692578951307403000,
+        "createdFormatted": "2023/08/21 02:49:11",
+        "name": "Special (Iranian)",
         "translations": [
           {
             "languageId": "fa",
@@ -13,14 +13,15 @@
           }
         ],
         "uniqueId": "special",
-        "updated": 1692496681789235000,
+        "updated": 1692578951307403000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692496681787360000,
-        "createdFormatted": "2023/08/20 03:58:01",
-        "name": "دولتی",
+        "created": 1692578951305773000,
+        "createdFormatted": "2023/08/21 02:49:11",
+        "name": "Govermental (Iranian)",
         "translations": [
           {
             "languageId": "fa",
@@ -29,14 +30,15 @@
           }
         ],
         "uniqueId": "govermental",
-        "updated": 1692496681787360000,
+        "updated": 1692578951305773000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692496681785068000,
-        "createdFormatted": "2023/08/20 03:58:01",
-        "name": "سمپاد",
+        "created": 1692578951304187000,
+        "createdFormatted": "2023/08/21 02:49:11",
+        "name": "Sampad (Iranian)",
         "translations": [
           {
             "languageId": "fa",
@@ -45,8 +47,9 @@
           }
         ],
         "uniqueId": "sampad",
-        "updated": 1692496681785068000,
+        "updated": 1692578951304187000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       }
     ],
