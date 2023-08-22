@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692578951280616000,
-        "createdFormatted": "2023/08/21 02:49:11",
+        "created": 1692651716527107000,
+        "createdFormatted": "2023/08/21 23:01:56",
         "linkerId": "business",
         "title": "firmowe",
         "translations": [
@@ -19,14 +19,14 @@
           }
         ],
         "uniqueId": "business",
-        "updated": 1692578951280616000,
+        "updated": 1692651716527107000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692578951279041000,
-        "createdFormatted": "2023/08/21 02:49:11",
+        "created": 1692651716525300000,
+        "createdFormatted": "2023/08/21 23:01:56",
         "linkerId": "personal",
         "title": "Prywatne",
         "translations": [
@@ -42,7 +42,7 @@
           }
         ],
         "uniqueId": "personal",
-        "updated": 1692578951279041000,
+        "updated": 1692651716525300000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""

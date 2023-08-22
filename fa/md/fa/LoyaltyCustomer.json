@@ -2,55 +2,68 @@
   "data": {
     "items": [
       {
-        "created": 1692578951287350000,
+        "created": 1692651716534735000,
         "createdFormatted": "۳۰ مرداد ۱۴۰۲",
         "fullName": " ",
         "locations": [
           {
-            "created": 1692578951286160000,
-            "lat": 35.72085361328543,
-            "lng": 51.4237730660889,
-            "physicalAddress": "اقلیمی",
-            "uniqueId": "85e2e0ca",
-            "updated": 1692578951286160000,
+            "created": 1692651716531764000,
+            "lat": 35.69030342379057,
+            "lng": 51.38994229594488,
+            "physicalAddress": "تهران کاخ مرمر",
+            "uniqueId": "5f2d14dd",
+            "updated": 1692651716531764000,
             "userId": "",
             "workspaceId": ""
           },
           {
-            "created": 1692578951284752000,
-            "lat": 35.69030342379057,
-            "lng": 51.38994229594488,
-            "physicalAddress": "تهران کاخ مرمر",
-            "uniqueId": "93efb3f9",
-            "updated": 1692578951284752000,
+            "created": 1692651716533299000,
+            "lat": 35.72085361328543,
+            "lng": 51.4237730660889,
+            "physicalAddress": "اقلیمی",
+            "uniqueId": "8c8e8be5",
+            "updated": 1692651716533299000,
             "userId": "",
             "workspaceId": ""
           }
         ],
         "personalData": {
-          "created": 1692578951283313000,
+          "created": 1692651716530029000,
           "firstName": "Ali",
           "lastName": "Torabi",
           "nationalId": "۴۲۷۰۰۰۰۰۰",
           "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
-          "uniqueId": "177dd2bc",
-          "updated": 1692578951283313000,
+          "uniqueId": "0b079b8d",
+          "updated": 1692651716530029000,
           "userId": "",
           "workspaceId": ""
         },
-        "personalDataId": "177dd2bc",
+        "personalDataId": "0b079b8d",
         "type": {
-          "created": 1692578951279041000,
-          "title": "Personal",
+          "created": 1692651716525300000,
+          "linkerId": "personal",
+          "title": "شخص حقیقی",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "personal",
+              "title": "شخص حقیقی"
+            },
+            {
+              "languageId": "pl",
+              "linkerId": "personal",
+              "title": "Prywatne"
+            }
+          ],
           "uniqueId": "personal",
-          "updated": 1692578951279041000,
+          "updated": 1692651716525300000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "typeId": "personal",
         "uniqueId": "torabi",
-        "updated": 1692578951287350000,
+        "updated": 1692651716534735000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
