@@ -2,45 +2,109 @@
   "data": {
     "items": [
       {
-        "created": 1692651716534735000,
-        "createdFormatted": "2023/08/21 23:01:56",
-        "fullName": " ",
+        "businessData": {
+          "created": 1692732512622624000,
+          "name": "Nedayi coffe company",
+          "taxNumber": "2910928",
+          "uniqueId": "12e2e0de",
+          "updated": 1692732512622624000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "businessDataId": "12e2e0de",
+        "created": 1692732512628713000,
+        "createdFormatted": "2023/08/22 21:28:32",
         "locations": [
           {
-            "created": 1692651716531764000,
+            "created": 1692732512624930000,
             "lat": 35.69030342379057,
             "lng": 51.38994229594488,
             "physicalAddress": "تهران کاخ مرمر",
-            "uniqueId": "5f2d14dd",
-            "updated": 1692651716531764000,
+            "uniqueId": "b1dfc24e",
+            "updated": 1692732512624930000,
             "userId": "",
             "workspaceId": ""
           },
           {
-            "created": 1692651716533299000,
+            "created": 1692732512626785000,
             "lat": 35.72085361328543,
             "lng": 51.4237730660889,
             "physicalAddress": "اقلیمی",
-            "uniqueId": "8c8e8be5",
-            "updated": 1692651716533299000,
+            "uniqueId": "b2adfa16",
+            "updated": 1692732512626785000,
+            "userId": "",
+            "workspaceId": ""
+          }
+        ],
+        "type": {
+          "created": 1692732512612178000,
+          "linkerId": "business",
+          "title": "firmowe",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "business",
+              "title": "شخص حقوقی"
+            },
+            {
+              "languageId": "pl",
+              "linkerId": "business",
+              "title": "firmowe"
+            }
+          ],
+          "uniqueId": "business",
+          "updated": 1692732512612178000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "typeId": "business",
+        "uniqueId": "nedyai_coffee",
+        "updated": 1692732512628713000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1692732512620292000,
+        "createdFormatted": "2023/08/22 21:28:32",
+        "fullName": " ",
+        "locations": [
+          {
+            "created": 1692732512618962000,
+            "lat": 35.72085361328543,
+            "lng": 51.4237730660889,
+            "physicalAddress": "اقلیمی",
+            "uniqueId": "385c1b89",
+            "updated": 1692732512618962000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          {
+            "created": 1692732512617425000,
+            "lat": 35.69030342379057,
+            "lng": 51.38994229594488,
+            "physicalAddress": "تهران کاخ مرمر",
+            "uniqueId": "91d012f7",
+            "updated": 1692732512617425000,
             "userId": "",
             "workspaceId": ""
           }
         ],
         "personalData": {
-          "created": 1692651716530029000,
+          "created": 1692732512615493000,
           "firstName": "Ali",
           "lastName": "Torabi",
           "nationalId": "۴۲۷۰۰۰۰۰۰",
           "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
-          "uniqueId": "0b079b8d",
-          "updated": 1692651716530029000,
+          "uniqueId": "580de6d6",
+          "updated": 1692732512615493000,
           "userId": "",
           "workspaceId": ""
         },
-        "personalDataId": "0b079b8d",
+        "personalDataId": "580de6d6",
         "type": {
-          "created": 1692651716525300000,
+          "created": 1692732512609731000,
           "linkerId": "personal",
           "title": "Prywatne",
           "translations": [
@@ -56,14 +120,14 @@
             }
           ],
           "uniqueId": "personal",
-          "updated": 1692651716525300000,
+          "updated": 1692732512609731000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "typeId": "personal",
         "uniqueId": "torabi",
-        "updated": 1692651716534735000,
+        "updated": 1692732512620292000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
@@ -71,6 +135,6 @@
     ],
     "itemsPerPage": 9999,
     "startIndex": 0,
-    "totalItems": 1
+    "totalItems": 2
   }
 }

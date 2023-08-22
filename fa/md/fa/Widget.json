@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692651722042092000,
-        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
+        "created": 1692732517953996000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
         "linkerId": "numeric_value_realtime_chart",
         "name": "نمایش نمودار آنلاین عددی",
         "providerKey": "numeric_value_realtime_chart",
@@ -15,13 +15,14 @@
           }
         ],
         "uniqueId": "numeric_value_realtime_chart",
-        "updated": 1692651722042092000,
+        "updated": 1692732517953996000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692651722040137000,
-        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
+        "created": 1692732517951037000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
         "linkerId": "temperature_control",
         "name": "کنترل دمای ساده",
         "providerKey": "temperature_control",
@@ -33,13 +34,14 @@
           }
         ],
         "uniqueId": "temperature_control",
-        "updated": 1692651722040137000,
+        "updated": 1692732517951037000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692651722037659000,
-        "createdFormatted": "۳۰ مرداد ۱۴۰۲",
+        "created": 1692732517947693000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
         "linkerId": "single_digital_gpio",
         "name": "پایه خروجی تکی",
         "providerKey": "single_digital_gpio",
@@ -51,8 +53,9 @@
           }
         ],
         "uniqueId": "single_digital_gpio",
-        "updated": 1692651722037659000,
+        "updated": 1692732517947693000,
         "userId": "",
+        "visibility": "A",
         "workspaceId": ""
       }
     ],

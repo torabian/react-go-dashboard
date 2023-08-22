@@ -1,0 +1,119 @@
+{
+  "data": {
+    "items": [
+      {
+        "bank": {
+          "created": 1692732512580670000,
+          "name": "Bank Melat Iran",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "bank_mellat_iran",
+              "name": "بانک ملت ایران"
+            }
+          ],
+          "uniqueId": "bank_mellat_iran",
+          "updated": 1692732512580670000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "bankId": "bank_mellat_iran",
+        "city": {
+          "created": 1692732511660301000,
+          "name": "شیراز",
+          "provinceId": "iran_fars",
+          "uniqueId": "iran_city_647",
+          "updated": 1692732511660301000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "cityId": "iran_city_647",
+        "created": 1692732512584761000,
+        "createdFormatted": "2023/08/22 21:28:32",
+        "name": "Shiraz 7-Tir",
+        "province": {
+          "countryId": "ir",
+          "created": 1692732510450409000,
+          "name": "فارس",
+          "uniqueId": "iran_fars",
+          "updated": 1692732510450409000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "provinceId": "iran_fars",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "shiz2",
+            "name": "شعبه هفت تیر شیراز"
+          }
+        ],
+        "uniqueId": "shiz2",
+        "updated": 1692732512584761000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "bank": {
+          "created": 1692732512578800000,
+          "name": "Bank Melli Iran",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "bank_melli_iran",
+              "name": "بانک ملی ایران"
+            }
+          ],
+          "uniqueId": "bank_melli_iran",
+          "updated": 1692732512578800000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "bankId": "bank_melli_iran",
+        "city": {
+          "created": 1692732511456894000,
+          "name": "زنجان",
+          "provinceId": "iran_zanjan",
+          "uniqueId": "iran_city_536",
+          "updated": 1692732511456894000,
+          "userId": "",
+          "workspaceId": ""
+        },
+        "cityId": "iran_city_536",
+        "created": 1692732512582785000,
+        "createdFormatted": "2023/08/22 21:28:32",
+        "name": "Zanjan Main Square",
+        "province": {
+          "countryId": "ir",
+          "created": 1692732510443233000,
+          "name": "زنجان",
+          "uniqueId": "iran_zanjan",
+          "updated": 1692732510443233000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "provinceId": "iran_zanjan",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "znj1",
+            "name": "شعبه میدان انقلاب زنجان"
+          }
+        ],
+        "uniqueId": "znj1",
+        "updated": 1692732512582785000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalItems": 2
+  }
+}

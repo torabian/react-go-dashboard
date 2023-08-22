@@ -1,0 +1,171 @@
+{
+  "data": {
+    "items": [
+      {
+        "amount": 4000000,
+        "amountFormatted": "ریال۴٬۰۰۰٬۰۰۰",
+        "bankBranch": {
+          "bankId": "bank_melli_iran",
+          "cityId": "iran_city_536",
+          "created": 1692732512582785000,
+          "linkerId": "znj1",
+          "name": "شعبه میدان انقلاب زنجان",
+          "provinceId": "iran_zanjan",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "znj1",
+              "name": "شعبه میدان انقلاب زنجان"
+            }
+          ],
+          "uniqueId": "znj1",
+          "updated": 1692732512582785000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "bankBranchId": "znj1",
+        "created": 1692732512589738000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
+        "currencyId": "IRR",
+        "customerId": "torabi",
+        "dueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "issueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "status": {
+          "created": 1692732512595321000,
+          "linkerId": "received",
+          "name": "دریافتی",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "received",
+              "name": "دریافتی"
+            }
+          ],
+          "uniqueId": "received",
+          "updated": 1692732512595321000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "statusId": "received",
+        "uniqueId": "check_3",
+        "updated": 1692732512589738000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "amount": 2001000,
+        "amountFormatted": "ریال۲٬۰۰۱٬۰۰۰",
+        "bankBranch": {
+          "bankId": "bank_melli_iran",
+          "cityId": "iran_city_536",
+          "created": 1692732512582785000,
+          "linkerId": "znj1",
+          "name": "شعبه میدان انقلاب زنجان",
+          "provinceId": "iran_zanjan",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "znj1",
+              "name": "شعبه میدان انقلاب زنجان"
+            }
+          ],
+          "uniqueId": "znj1",
+          "updated": 1692732512582785000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "bankBranchId": "znj1",
+        "created": 1692732512588220000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
+        "currencyId": "IRR",
+        "customerId": "torabi",
+        "dueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "issueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "status": {
+          "created": 1692732512600416000,
+          "linkerId": "spent",
+          "name": "خرج شده",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "spent",
+              "name": "خرج شده"
+            }
+          ],
+          "uniqueId": "spent",
+          "updated": 1692732512600416000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "statusId": "spent",
+        "uniqueId": "check_2",
+        "updated": 1692732512588220000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "amount": 100000,
+        "amountFormatted": "ریال۱۰۰٬۰۰۰",
+        "bankBranch": {
+          "bankId": "bank_mellat_iran",
+          "cityId": "iran_city_647",
+          "created": 1692732512584761000,
+          "linkerId": "shiz2",
+          "name": "شعبه هفت تیر شیراز",
+          "provinceId": "iran_fars",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "shiz2",
+              "name": "شعبه هفت تیر شیراز"
+            }
+          ],
+          "uniqueId": "shiz2",
+          "updated": 1692732512584761000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "bankBranchId": "shiz2",
+        "created": 1692732512586739000,
+        "createdFormatted": "۳۱ مرداد ۱۴۰۲",
+        "currencyId": "IRR",
+        "customerId": "torabi",
+        "dueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "issueDateFormatted": "۱۱ دی ۱۳۴۸",
+        "status": {
+          "created": 1692732512597575000,
+          "linkerId": "payed",
+          "name": "پرداختی",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "payed",
+              "name": "پرداختی"
+            }
+          ],
+          "uniqueId": "payed",
+          "updated": 1692732512597575000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "statusId": "payed",
+        "uniqueId": "check_1",
+        "updated": 1692732512586739000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      }
+    ],
+    "itemsPerPage": 9999,
+    "startIndex": 0,
+    "totalItems": 3
+  }
+}
