@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692732512666732000,
-        "createdFormatted": "2023/08/22 21:28:32",
+        "created": 1692825318985497000,
+        "createdFormatted": "2023/08/23 23:15:18",
         "name": "2010-2011",
         "translations": [
           {
@@ -13,13 +13,13 @@
           }
         ],
         "uniqueId": "1400-1401",
-        "updated": 1692732512666732000,
+        "updated": 1692825318985497000,
         "userId": "",
         "workspaceId": ""
       },
       {
-        "created": 1692732512664818000,
-        "createdFormatted": "2023/08/22 21:28:32",
+        "created": 1692825318983584000,
+        "createdFormatted": "2023/08/23 23:15:18",
         "name": "2009-2010",
         "translations": [
           {
@@ -29,7 +29,7 @@
           }
         ],
         "uniqueId": "88-89",
-        "updated": 1692732512664818000,
+        "updated": 1692825318983584000,
         "userId": "",
         "workspaceId": ""
       }

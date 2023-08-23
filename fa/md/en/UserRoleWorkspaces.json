@@ -2,40 +2,40 @@
   "data": {
     "items": [
       {
-        "created": 1692732514009269000,
+        "created": 1692825320306795000,
         "role": {
           "capabilities": [
             {
-              "created": 1692732508305464000,
+              "created": 1692825315396142000,
               "uniqueId": "root/*",
-              "updated": 1692732508305464000
+              "updated": 1692825315396142000
             }
           ],
-          "created": 1692732514008151000,
+          "created": 1692825320306378000,
           "name": "Administrator",
-          "uniqueId": "42d8f3e3",
-          "updated": 1692732514008151000,
-          "workspaceId": "752fdcf7"
+          "uniqueId": "44eb6441",
+          "updated": 1692825320306378000,
+          "workspaceId": "635a9459"
         },
-        "roleId": "42d8f3e3",
-        "uniqueId": "8a3be33c",
-        "updated": 1692732514009269000,
+        "roleId": "44eb6441",
+        "uniqueId": "5ed8b0e7",
+        "updated": 1692825320306795000,
         "user": {
-          "created": 1692732512668401000,
+          "created": 1692825318986868000,
           "firstName": "John",
           "lastName": "Doe",
-          "uniqueId": "e458f501",
-          "updated": 1692732512668401000
+          "uniqueId": "f4116240",
+          "updated": 1692825318986868000
         },
-        "userId": "e458f501",
+        "userId": "f4116240",
         "workspace": {
-          "created": 1692732514007658000,
+          "created": 1692825320306084000,
           "name": "John",
           "parentId": "root",
-          "uniqueId": "752fdcf7",
-          "updated": 1692732514007658000
+          "uniqueId": "635a9459",
+          "updated": 1692825320306084000
         },
-        "workspaceId": "752fdcf7"
+        "workspaceId": "635a9459"
       }
     ],
     "itemsPerPage": 0,

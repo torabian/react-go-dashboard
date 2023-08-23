@@ -3,14 +3,14 @@
     "items": [
       {
         "apiKey": "jkwkqje2873189237",
-        "created": 1692732509836145000,
-        "createdFormatted": "2023/08/22 21:28:29",
+        "created": 1692825316617535000,
+        "createdFormatted": "2023/08/23 23:15:16",
         "invokeBody": "{\"from\": \"{sender}\", \"to\":{recepients}}",
         "invokeUrl": "http://smsserversaple.com/",
         "mainSenderNumber": "+18002929",
         "type": "url",
-        "uniqueId": "6f369902",
-        "updated": 1692732509836145000,
+        "uniqueId": "b7b2b510",
+        "updated": 1692825316617535000,
         "userId": "",
         "workspaceId": ""
       }

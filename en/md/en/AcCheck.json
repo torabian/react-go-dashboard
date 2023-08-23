@@ -7,7 +7,7 @@
         "bankBranch": {
           "bankId": "bank_melli_iran",
           "cityId": "iran_city_536",
-          "created": 1692732512582785000,
+          "created": 1692825318916323000,
           "name": "Zanjan Main Square",
           "provinceId": "iran_zanjan",
           "translations": [
@@ -18,20 +18,70 @@
             }
           ],
           "uniqueId": "znj1",
-          "updated": 1692732512582785000,
+          "updated": 1692825318916323000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "bankBranchId": "znj1",
-        "created": 1692732512589738000,
-        "createdFormatted": "2023/08/22 21:28:32",
+        "created": 1692825318922927000,
+        "createdFormatted": "2023/08/23 23:15:18",
+        "currency": {
+          "created": 1692825324361962000,
+          "name": "Iranian Rial",
+          "namePlural": "Iranian rials",
+          "symbol": "IRR",
+          "symbolNative": "﷼",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "IRR",
+              "name": "ریال ایران"
+            }
+          ],
+          "uniqueId": "IRR",
+          "updated": 1692825324361962000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
         "currencyId": "IRR",
-        "customerId": "torabi",
+        "customer": {
+          "businessData": {
+            "created": 1692825318950246000,
+            "name": "Nedayi coffe company",
+            "taxNumber": "2910928",
+            "translations": [
+              {
+                "languageId": "fa",
+                "linkerId": "08ea8b80",
+                "name": "شرکت قهوه ندایی"
+              },
+              {
+                "languageId": "fa",
+                "linkerId": "08ea8b80",
+                "name": "شرکت قهوه ندایی"
+              }
+            ],
+            "uniqueId": "08ea8b80",
+            "updated": 1692825318950246000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          "businessDataId": "08ea8b80",
+          "created": 1692825318955452000,
+          "typeId": "business",
+          "uniqueId": "nedyai_coffee",
+          "updated": 1692825318955452000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
+        "customerId": "nedyai_coffee",
         "dueDateFormatted": "1970/01/01 01:00:00",
         "issueDateFormatted": "1970/01/01 01:00:00",
         "status": {
-          "created": 1692732512595321000,
+          "created": 1692825318928653000,
           "name": "Received",
           "translations": [
             {
@@ -41,14 +91,14 @@
             }
           ],
           "uniqueId": "received",
-          "updated": 1692732512595321000,
+          "updated": 1692825318928653000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "statusId": "received",
         "uniqueId": "check_3",
-        "updated": 1692732512589738000,
+        "updated": 1692825318922927000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
@@ -59,7 +109,7 @@
         "bankBranch": {
           "bankId": "bank_melli_iran",
           "cityId": "iran_city_536",
-          "created": 1692732512582785000,
+          "created": 1692825318916323000,
           "name": "Zanjan Main Square",
           "provinceId": "iran_zanjan",
           "translations": [
@@ -70,20 +120,75 @@
             }
           ],
           "uniqueId": "znj1",
-          "updated": 1692732512582785000,
+          "updated": 1692825318916323000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "bankBranchId": "znj1",
-        "created": 1692732512588220000,
-        "createdFormatted": "2023/08/22 21:28:32",
+        "created": 1692825318921536000,
+        "createdFormatted": "2023/08/23 23:15:18",
+        "currency": {
+          "created": 1692825324361962000,
+          "name": "Iranian Rial",
+          "namePlural": "Iranian rials",
+          "symbol": "IRR",
+          "symbolNative": "﷼",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "IRR",
+              "name": "ریال ایران"
+            }
+          ],
+          "uniqueId": "IRR",
+          "updated": 1692825324361962000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
         "currencyId": "IRR",
+        "customer": {
+          "created": 1692825318947776000,
+          "fullName": " ",
+          "personalData": {
+            "created": 1692825318942247000,
+            "firstName": "Ali",
+            "lastName": "Torabi",
+            "nationalId": "۴۲۷۰۰۰۰۰۰",
+            "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
+            "translations": [
+              {
+                "firstName": "علی",
+                "languageId": "fa",
+                "lastName": "ترابی",
+                "linkerId": "485459de"
+              },
+              {
+                "firstName": "علی",
+                "languageId": "fa",
+                "lastName": "ترابی",
+                "linkerId": "485459de"
+              }
+            ],
+            "uniqueId": "485459de",
+            "updated": 1692825318942247000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          "personalDataId": "485459de",
+          "typeId": "personal",
+          "uniqueId": "torabi",
+          "updated": 1692825318947776000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
         "customerId": "torabi",
         "dueDateFormatted": "1970/01/01 01:00:00",
         "issueDateFormatted": "1970/01/01 01:00:00",
         "status": {
-          "created": 1692732512600416000,
+          "created": 1692825318932213000,
           "name": "Spent",
           "translations": [
             {
@@ -93,14 +198,14 @@
             }
           ],
           "uniqueId": "spent",
-          "updated": 1692732512600416000,
+          "updated": 1692825318932213000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "statusId": "spent",
         "uniqueId": "check_2",
-        "updated": 1692732512588220000,
+        "updated": 1692825318921536000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
@@ -111,7 +216,7 @@
         "bankBranch": {
           "bankId": "bank_mellat_iran",
           "cityId": "iran_city_647",
-          "created": 1692732512584761000,
+          "created": 1692825318918129000,
           "name": "Shiraz 7-Tir",
           "provinceId": "iran_fars",
           "translations": [
@@ -122,20 +227,75 @@
             }
           ],
           "uniqueId": "shiz2",
-          "updated": 1692732512584761000,
+          "updated": 1692825318918129000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "bankBranchId": "shiz2",
-        "created": 1692732512586739000,
-        "createdFormatted": "2023/08/22 21:28:32",
+        "created": 1692825318920050000,
+        "createdFormatted": "2023/08/23 23:15:18",
+        "currency": {
+          "created": 1692825324361962000,
+          "name": "Iranian Rial",
+          "namePlural": "Iranian rials",
+          "symbol": "IRR",
+          "symbolNative": "﷼",
+          "translations": [
+            {
+              "languageId": "fa",
+              "linkerId": "IRR",
+              "name": "ریال ایران"
+            }
+          ],
+          "uniqueId": "IRR",
+          "updated": 1692825324361962000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
         "currencyId": "IRR",
+        "customer": {
+          "created": 1692825318947776000,
+          "fullName": " ",
+          "personalData": {
+            "created": 1692825318942247000,
+            "firstName": "Ali",
+            "lastName": "Torabi",
+            "nationalId": "۴۲۷۰۰۰۰۰۰",
+            "phoneNumber": "۰۹۱۹۹۴۹۳۹۴۱",
+            "translations": [
+              {
+                "firstName": "علی",
+                "languageId": "fa",
+                "lastName": "ترابی",
+                "linkerId": "485459de"
+              },
+              {
+                "firstName": "علی",
+                "languageId": "fa",
+                "lastName": "ترابی",
+                "linkerId": "485459de"
+              }
+            ],
+            "uniqueId": "485459de",
+            "updated": 1692825318942247000,
+            "userId": "",
+            "workspaceId": ""
+          },
+          "personalDataId": "485459de",
+          "typeId": "personal",
+          "uniqueId": "torabi",
+          "updated": 1692825318947776000,
+          "userId": "",
+          "visibility": "A",
+          "workspaceId": ""
+        },
         "customerId": "torabi",
         "dueDateFormatted": "1970/01/01 01:00:00",
         "issueDateFormatted": "1970/01/01 01:00:00",
         "status": {
-          "created": 1692732512597575000,
+          "created": 1692825318930486000,
           "name": "Payed",
           "translations": [
             {
@@ -145,14 +305,14 @@
             }
           ],
           "uniqueId": "payed",
-          "updated": 1692732512597575000,
+          "updated": 1692825318930486000,
           "userId": "",
           "visibility": "A",
           "workspaceId": ""
         },
         "statusId": "payed",
         "uniqueId": "check_1",
-        "updated": 1692732512586739000,
+        "updated": 1692825318920050000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
