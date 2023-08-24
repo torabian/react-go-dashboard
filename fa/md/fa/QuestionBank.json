@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692825318980425000,
-        "createdFormatted": "۱ شهریور ۱۴۰۲",
+        "created": 1692850849887440000,
+        "createdFormatted": "۲ شهریور ۱۴۰۲",
         "linkerId": "konor_1400_math",
         "title": "کنکور ریاضی سال ۱۴۰۰",
         "translations": [
@@ -14,7 +14,7 @@
           }
         ],
         "uniqueId": "konor_1400_math",
-        "updated": 1692825318980425000,
+        "updated": 1692850849887440000,
         "userId": "",
         "workspaceId": ""
       }
