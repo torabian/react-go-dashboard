@@ -2,8 +2,8 @@
   "data": {
     "items": [
       {
-        "created": 1692850849080081000,
-        "createdFormatted": "۲ شهریور ۱۴۰۲",
+        "created": 1692990025363913000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
         "linkerId": "rejected",
         "name": "برگشتی",
         "translations": [
@@ -14,14 +14,14 @@
           }
         ],
         "uniqueId": "rejected",
-        "updated": 1692850849080081000,
+        "updated": 1692990025363913000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692850849078558000,
-        "createdFormatted": "۲ شهریور ۱۴۰۲",
+        "created": 1692990025362038000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
         "linkerId": "redeemed",
         "name": "وصولی",
         "translations": [
@@ -32,14 +32,14 @@
           }
         ],
         "uniqueId": "redeemed",
-        "updated": 1692850849078558000,
+        "updated": 1692990025362038000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692850849076864000,
-        "createdFormatted": "۲ شهریور ۱۴۰۲",
+        "created": 1692990025359974000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
         "linkerId": "spent",
         "name": "خرج شده",
         "translations": [
@@ -50,14 +50,14 @@
           }
         ],
         "uniqueId": "spent",
-        "updated": 1692850849076864000,
+        "updated": 1692990025359974000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692850849075275000,
-        "createdFormatted": "۲ شهریور ۱۴۰۲",
+        "created": 1692990025358151000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
         "linkerId": "payed",
         "name": "پرداختی",
         "translations": [
@@ -68,14 +68,32 @@
           }
         ],
         "uniqueId": "payed",
-        "updated": 1692850849075275000,
+        "updated": 1692990025358151000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
       },
       {
-        "created": 1692850849073402000,
-        "createdFormatted": "۲ شهریور ۱۴۰۲",
+        "created": 1692990025355266000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
+        "linkerId": "sentToBank",
+        "name": "ارسالی به بانک",
+        "translations": [
+          {
+            "languageId": "fa",
+            "linkerId": "sentToBank",
+            "name": "ارسالی به بانک"
+          }
+        ],
+        "uniqueId": "sentToBank",
+        "updated": 1692990025355266000,
+        "userId": "",
+        "visibility": "A",
+        "workspaceId": ""
+      },
+      {
+        "created": 1692990025353272000,
+        "createdFormatted": "۳ شهریور ۱۴۰۲",
         "linkerId": "received",
         "name": "دریافتی",
         "translations": [
@@ -86,7 +104,7 @@
           }
         ],
         "uniqueId": "received",
-        "updated": 1692850849073402000,
+        "updated": 1692990025353272000,
         "userId": "",
         "visibility": "A",
         "workspaceId": ""
@@ -94,6 +112,6 @@
     ],
     "itemsPerPage": 9999,
     "startIndex": 0,
-    "totalItems": 5
+    "totalItems": 6
   }
 }
