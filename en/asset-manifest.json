@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-go-dashboard/en/static/css/main.9a84a38c.css",
-    "main.js": "/react-go-dashboard/en/static/js/main.8a733ff7.js",
+    "main.css": "/react-go-dashboard/en/static/css/main.f72a2408.css",
+    "main.js": "/react-go-dashboard/en/static/js/main.5734b3d9.js",
     "static/js/890.ace252e0.chunk.js": "/react-go-dashboard/en/static/js/890.ace252e0.chunk.js",
     "static/media/SFNSDisplay-Semibold.otf": "/react-go-dashboard/en/static/media/SFNSDisplay-Semibold.b1cbfd8df20ade660469.otf",
     "static/media/SFNSDisplay-Medium.otf": "/react-go-dashboard/en/static/media/SFNSDisplay-Medium.0d6a447cb6bea27ee045.otf",
@@ -66,12 +66,12 @@
     "static/media/KaTeX_Size3-Regular.woff": "/react-go-dashboard/en/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/react-go-dashboard/en/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/react-go-dashboard/en/index.html",
-    "main.9a84a38c.css.map": "/react-go-dashboard/en/static/css/main.9a84a38c.css.map",
-    "main.8a733ff7.js.map": "/react-go-dashboard/en/static/js/main.8a733ff7.js.map",
+    "main.f72a2408.css.map": "/react-go-dashboard/en/static/css/main.f72a2408.css.map",
+    "main.5734b3d9.js.map": "/react-go-dashboard/en/static/js/main.5734b3d9.js.map",
     "890.ace252e0.chunk.js.map": "/react-go-dashboard/en/static/js/890.ace252e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a84a38c.css",
-    "static/js/main.8a733ff7.js"
+    "static/css/main.f72a2408.css",
+    "static/js/main.5734b3d9.js"
   ]
 }
