@@ -1,51 +1,15 @@
 {
   "data": {
     "passport": null,
-    "token": "7cd682bb43c5f86825df0b91ac5bef0076369ec4b2eb6f372bdb02fd17ba0a77",
+    "token": "9b12e534989466f4e82eb13664c46e79570233e99a6ff332a03bee11a5b06c2f",
     "user": {
+      "uniqueId": "37c69722",
+      "userId": "f20f64bb",
       "firstName": "John",
       "lastName": "Doe",
-      "uniqueId": "ba0ad33b",
-      "updated": 1692990026298791000,
-      "created": 1692990026298791000
+      "updated": 1697656766634598000,
+      "created": 1697656766634598000
     },
-    "userRoleWorkspaces": [
-      {
-        "workspace": {
-          "name": "John",
-          "uniqueId": "1098498c",
-          "updated": 1692990027604927000,
-          "created": 1692990027604927000,
-          "parentId": "root"
-        },
-        "workspaceId": "1098498c",
-        "role": {
-          "uniqueId": "e8ebe692",
-          "name": "Administrator",
-          "capabilities": [
-            {
-              "uniqueId": "root/*",
-              "updated": 1692990021600618000,
-              "created": 1692990021600618000
-            }
-          ],
-          "workspaceId": "1098498c",
-          "updated": 1692990027605229000,
-          "created": 1692990027605229000
-        },
-        "roleId": "e8ebe692",
-        "user": {
-          "firstName": "John",
-          "lastName": "Doe",
-          "uniqueId": "ba0ad33b",
-          "updated": 1692990026298791000,
-          "created": 1692990026298791000
-        },
-        "userId": "ba0ad33b",
-        "uniqueId": "26d18a27",
-        "updated": 1692990027605648000,
-        "created": 1692990027605648000
-      }
-    ]
+    "userRoleWorkspaces": []
   }
 }
